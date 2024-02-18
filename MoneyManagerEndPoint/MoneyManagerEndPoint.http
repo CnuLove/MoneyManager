@@ -1,0 +1,6 @@
+@MoneyManagerEndPoint_HostAddress = http://localhost:5101
+
+GET {{MoneyManagerEndPoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

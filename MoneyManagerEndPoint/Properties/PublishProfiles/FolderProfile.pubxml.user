@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Code\MoneyManager\MoneymanagerBackend\MoneyManagerAPI\Publish\T3</_PublishTargetUrl>
+    <History>True|2024-02-16T18:01:59.7196797Z;True|2024-02-15T22:58:53.7765968+05:30;True|2024-02-15T20:18:53.5273330+05:30;False|2024-02-15T20:08:25.9478020+05:30;False|2024-02-15T20:07:52.7570000+05:30;False|2024-02-15T20:07:07.0734905+05:30;False|2024-02-15T20:06:15.4662117+05:30;False|2024-02-15T20:05:12.9447702+05:30;True|2024-02-14T20:42:44.2611324+05:30;True|2024-02-13T00:01:06.1447393+05:30;True|2024-02-11T22:51:30.2541343+05:30;False|2024-02-11T22:51:07.9928687+05:30;True|2024-02-11T22:38:01.5665776+05:30;True|2024-02-11T21:31:15.8086583+05:30;True|2024-02-11T16:19:02.9695579+05:30;True|2024-02-11T15:19:23.7391997+05:30;True|2024-02-11T14:45:49.0610155+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
